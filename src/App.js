@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import './css/base.css';
 import './css/main.css';
@@ -22,8 +21,7 @@ function App() {
       <About/>
       <Skills/>
       <Credintials/>
-      <Portfolio/>
-     
+      <Portfolio/>     
       <Contact/>
       <Footer/>
     </div>

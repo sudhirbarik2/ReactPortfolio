@@ -31,7 +31,7 @@ function Contact() {
                         <h5 className="animate-this">Email Me At</h5>
 
                         <p className="animate-this">
-                            sudhir.barik981@gmail.com
+                            <a href="mailto:sudhir.barik981@gmail.com">sudhir.barik981@gmail.com</a>
                         </p>
                     </div>
 

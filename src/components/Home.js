@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from "react-scroll";
 function Home() {
     return (
-        <div >
+        <div className=''>
             <section id="home">
 
                 <div className="overlay"></div><div className="gradient-overlay"></div>

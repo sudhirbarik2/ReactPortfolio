@@ -23,7 +23,19 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.skills-tile {
+	background-color: transparentize(#F8F5F4, 0.95);
+	padding: 10px 10px 5px 10px;
+	width: 100px;
+	margin: 5px 0 5px 0;
+	border-radius: 8px;
+}
+.skill-icon {
+	font-size: 180%;
+	color: white;
+	text-align: center;
+	position: relative;
+}
 .App-link {
   color: #61dafb;
 }
@@ -35,4 +47,26 @@
   to {
     transform: rotate(360deg);
   }
+}
+.skillSet {
+  display:inline !important;
+}
+.links{
+  text-decoration: none;
+}
+.moreAboutMe{
+  font-size: large;
+  
+}
+.personalInfo{
+  font-size: medium;
+  font-weight: 300;
+}
+
+.services{
+  padding: inherit;
+}
+
+.bottom-setup{
+  padding-bottom: 5px;
 }

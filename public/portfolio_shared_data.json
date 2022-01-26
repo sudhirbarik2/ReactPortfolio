@@ -1,0 +1,106 @@
+{
+    "basic_info": {
+      "name": "Sudhir Barik | Full-Stack Developer",
+      "titles": [ "MERN FULL-STACK Developer", "ETL Using Informatica", "MEAN  FULL-STACK Developer", "Android App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain colored",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class":"devicon-react-original colored",
+          "level": "60"
+        },
+        {
+          "name": "Node",
+          "class":"devicon-nodejs-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Express",
+          "class":"devicon-express-original ",
+          "level": "60"
+        },
+        {
+          "name": "Mongo DB",
+          "class":"devicon-mongodb-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain colored",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain colored",
+          "level": "90"
+        },
+        
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original colored",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain ",
+          "level": "85"
+        },
+        
+        {
+          "name": "mysql",
+          "class": "devicon-mysql-plain colored",
+          "level": "85"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain-wordmark colored",
+          "level": "85"
+        },
+        {
+          "name": "git",
+          "class": "devicon-git-plain-wordmark colored",
+          "level": "85"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain colored",
+          "level": "85"
+        },
+        {
+          "name": "Android Studio",
+          "class": "devicon-android-plain colored",
+          "level": "85"
+        }
+        
+      ]
+    }
+  }

@@ -1,0 +1,23 @@
+{
+
+"education":{
+    "educationInfo" : [
+        {
+            "schoolName": "Heritaged Institute of Technology, Kolkata",
+            "subHeader": "Bachalor Of Technology in Computer Science and Engineering",
+            "duration": "AUGUST 2016 - JULY 2019",
+            "descBullets": [
+                "Completed My B.Tech on Computer Science and Engineering with Aggregate of 7.91 DGPA"
+            ]
+        },
+        {
+            "schoolName": "The Calcutta Technical School",
+            "subHeader": "Diploma in Computer Science and Technology",
+            "duration": "MARCH 2013 - JULY 2016",
+            "descBullets": [
+                "Completed My Diploma on Computer Science and Technology with Aggregate of 8.40 OGPA"
+            ]
+        }
+    ]
+}
+}

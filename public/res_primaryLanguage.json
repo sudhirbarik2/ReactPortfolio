@@ -1,0 +1,142 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Sudhir Bariki. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "WanderLust",
+      "startDate": "2020",
+      "description": "Dynamic and responsive travel / vacation booking application",
+      "images": [
+        "images/portfolio/wanderlust/img1.png",
+        "images/portfolio/wanderlust/img2.png",
+        "images/portfolio/wanderlust/img3.png",
+        "images/portfolio/wanderlust/img4.png",
+        "images/portfolio/wanderlust/img5.png",
+        "images/portfolio/wanderlust/img6.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node JS"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original "
+        },
+        {
+          "name": "Mongo DB",
+          "class":"devicon-mongodb-plain"
+        }
+      ]
+    },
+    {
+      "title": "ECO Property (CONFIDENTIAL)",
+      "startDate": "2020",
+      "description": "Dynamic and responsive Online property Broker application, to buy or rent real-estate property  ",
+      "images": [
+        "images/portfolio/confidential_projects/mansion.png"
+        
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node JS"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original "
+        },
+        {
+          "name": "Mongo DB",
+          "class":"devicon-mongodb-plain"
+        }
+      ]
+    },
+    {
+      "title": "PD Platform (CONFIDENTIAL)",
+      "startDate": "2021",
+      "description": "Dynamic and responsive project management app.",
+      "images": [
+        "images/portfolio/confidential_projects/adp.png"
+        
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Infosys",
+      "title": "Full-Stack Developer",
+      "years": "6.1.2020 - present",
+      "mainTech": [
+        "MERN STACK"
+      ],
+      "technologies": [
+        "React",
+        "Angular",
+        "RxJS",
+        "TypeScript",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "Material UI",
+        "Node",
+        "Express",
+        "Mongo DB",
+        "REST API"
+        
+      ]
+    },
+    {
+      "company": "Ardent Solutions",
+      "title": "Intern",
+      "years": "2019",
+      "mainTech": [
+        "Android Studio"
+      ],
+      "technologies": [
+        "Android Studio",
+        "XML",
+        "JAVA",
+        "php",
+        "mySQL"
+      ]
+    }
+  ]
+}

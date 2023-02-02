@@ -21,9 +21,7 @@ function Credintials() {
                 <div className="row wide credentials-content mx-auto">
 
                     <div className="col-md-6 col-sm-10 col-xs-10 left">
-
                         <h2 >Experience</h2>
-
                         <div className="timeline-wrap">
 
                             <div className="timeline-block animate-this">
@@ -31,12 +29,12 @@ function Credintials() {
                                     <i className="fa fa-briefcase"></i>
                                 </div>
                                 <div className="timeline-header">
-                                    <p className="timeframe">January 2020 - Present</p>
+                                    <p className="timeframe">January 2020 - September 2022</p>
                                     <h3>Infosys Limited</h3>
                                     <h4>System Engineer</h4>
                                 </div>
                                 <div className="timeline-content">
-                                    <p className="personalInfo">Two years of experience with Infosys having MERN stack full stack developement and ETL (Using Informatica) experience</p><br/>
+                                    <p className="personalInfo">Two years of experience with Infosys having MERN full stack developement and ETL (Using Informatica) experience</p><br/>
                                     <p className="personalInfo">Technologies Used:</p>
                                     <p className="personalInfo">React,
                                         Angular,
@@ -57,15 +55,43 @@ function Credintials() {
 
                         </div>
 
+                        <div className="timeline-wrap">
+
+                            <div className="timeline-block animate-this">
+                                <div className="timeline-ico">
+                                    <i className="fa fa-briefcase"></i>
+                                </div>
+                                <div className="timeline-header">
+                                    <p className="timeframe">September 2022 - Present</p>
+                                    <h3>PricewaterhouseCoopers-PwC</h3>
+                                    <h4>Associate</h4>
+                                </div>
+                                <div className="timeline-content">
+                                    <p className="personalInfo">Having experience in MEAN full stack developement</p><br/>
+                                    <p className="personalInfo">Technologies Used:</p>
+                                    <p className="personalInfo">
+                                        Angular,
+                                        RxJS,
+                                        TypeScript,
+                                        JavaScript,
+                                        Bootstrap,
+                                        MDBootstrap,
+                                        Material UI,
+                                        Node,
+                                        Express,
+                                        Mongo DB,
+                                        REST API</p>
+                                </div>
+                            </div>
+
+
+
+                        </div>
                     </div>
 
                     <div className="col-md-6 col-sm-12 col-xs-12 right">
-
                         <h2 >Education</h2>
-
                         <div className="timeline-wrap">
-
-
                             <div className="timeline-block animate-this">
                                 <div className="timeline-ico">
                                     <i className="fa fa-graduation-cap"></i>
@@ -79,13 +105,12 @@ function Credintials() {
                                     <p className="personalInfo">Completed Bachelor of Technology in Computer Science and Engineering</p>
                                 </div>
                             </div>
-
                             <div className="timeline-block animate-this">
                                 <div className="timeline-ico">
                                     <i className="fa fa-graduation-cap"></i>
                                 </div>
                                 <div className="timeline-header">
-                                    <p className="timeframe">June 2013 - October April</p>
+                                    <p className="timeframe">June 2013 - April 2016</p>
                                     <h3>The Calcutta Technical School</h3>
                                     <h4>Diploma in Engineering and Technology</h4>
                                 </div>

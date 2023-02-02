@@ -10,7 +10,7 @@ function Contact() {
                 <div className="row narrow section-intro">
                     <div className="col-8 offset-2">
                         <h3 className="animate-this">Contact</h3>
-                        <h1 className="animate-this">I'm Available for Work.<br/> Feel Free to Contact Me.</h1>
+                        {/* <h1 className="animate-this">I'm Available for Work.<br/> Feel Free to Contact Me.</h1> */}
 
                     </div>
                 </div>
@@ -23,7 +23,7 @@ function Contact() {
                         <h5 className="animate-this">WhatsApp connect</h5>
 
                         <p className="animate-this">
-                            7278422131
+                            <a href="https://wa.me/7278422131" target="_blank" rel="Sudhir's whatsapp" style={{color:"grey", textDecoration: "none"}}>7278422131</a>
                         </p>
                     </div>
 
@@ -31,16 +31,16 @@ function Contact() {
                         <h5 className="animate-this">Email Me At</h5>
 
                         <p className="animate-this">
-                            <a href="mailto:sudhir.barik981@gmail.com">sudhir.barik981@gmail.com</a>
+                            <a href="mailto:sudhir.barik981@gmail.com" target="_blank" rel="Sudhir's mail" style={{color:"grey", textDecoration: "none"}}>sudhir.barik981@gmail.com</a>
                         </p>
                     </div>
 
                     <div className="col-4 tab-full">
-                        <h5 className="animate-this">Call Me At</h5>
+                        <h5 className="animate-this" >Call Me At</h5>
 
-                        <p className="animate-this">
-                            
-                            Mobile: (+91) 7278 422 131<br />
+                        <p className="animate-this" >
+                        <a href="tel:7278422131" style={{color:"grey", textDecoration: "none"}}>
+                            Mobile: (+91) 7278 422 131</a><br />
                             
                         </p>
                     </div>

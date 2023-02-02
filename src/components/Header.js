@@ -5,10 +5,10 @@ function Header() {
         <div>
             <header>
 
-                <a id="header-menu-trigger" href="#0">
+                {/* <a id="header-menu-trigger" href="#0">
                     <span className="header-menu-text">Menu</span>
                     <span className="header-menu-icon"></span>
-                </a>
+                </a> */}
 
                 <nav id="menu-nav-wrap">
 

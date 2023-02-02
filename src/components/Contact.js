@@ -10,7 +10,7 @@ function Contact() {
                 <div className="row narrow section-intro">
                     <div className="col-8 offset-2">
                         <h3 className="animate-this">Contact</h3>
-                        {/* <h1 className="animate-this">I'm Available for Work.<br/> Feel Free to Contact Me.</h1> */}
+                        <h1 className="animate-this">I'm Available<br/> Feel Free to Contact Me.</h1>
 
                     </div>
                 </div>
